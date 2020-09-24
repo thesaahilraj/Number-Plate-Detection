@@ -15,5 +15,5 @@ Number-Plate-Detection.py
 ## Results
 ![alt text](https://github.com/thesaahilraj/Number-Plate-Detection/blob/master/Result.jpg?raw=true)
 
-[Number Plate Image Source] (https://www.autocarindia.com/car-news/new-cars-to-roll-out-soon-with-factory-fitted-number-plates-407910)
+[Number Plate Image Source](https://www.autocarindia.com/car-news/new-cars-to-roll-out-soon-with-factory-fitted-number-plates-407910)
 
